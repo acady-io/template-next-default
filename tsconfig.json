@@ -29,6 +29,7 @@
     "noEmit": true
   },
   "include": [
+    "next-env.d.ts",
     "pages"
   ],
   "exclude": [
